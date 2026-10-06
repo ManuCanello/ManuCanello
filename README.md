@@ -1,6 +1,6 @@
 <img align="left" src="https://flagcdn.com/w160/ar.png" width="8%" style="display:inline;"><img align="right" src="https://flagcdn.com/w160/ar.png" width="8%" style="display:inline;">
 
-<h1 align="center">Hi 👋, I'm Manuel Canello</h1>
+<h1 align="center">Hi, I'm Manuel Canello</h1>
 <h3 align="center">Full Stack Developer from Santa Fe, Argentina</h3>
 
 <p align="center">I work as a developer at <b>Xiara Solutions S.A.S.</b>, where I build and maintain <b>SailoPortal</b> 🌾 and <b>Nexar</b> 🏦 — two production business platforms built on a multi-tenant C#/.NET framework with SQL Server. I love understanding how things work under the hood — from the backend all the way down to electronics 🔌 — and building end-to-end web systems 🛠️</p>
