@@ -1,7 +1,7 @@
 <img align="left" src="https://flagcdn.com/w160/ar.png" width="8%" style="display:inline;"><img align="right" src="https://flagcdn.com/w160/ar.png" width="8%" style="display:inline;">
 
 <h1 align="center">Hola 👋, soy Manuel Canello</h1>
-<h3 align="center">Full Stack Developer desde Santa Fe, Argentina 🇦🇷</h3>
+<h3 align="center">Full Stack Developer desde Santa Fe, Argentina</h3>
 
 <p align="center">Trabajo como desarrollador en <b>Xiara Solutions S.A.S.</b>, donde construyo y mantengo <b>SailoPortal</b> 🏦, una plataforma de originación de créditos para entidades mutuales, sobre un framework multi-tenant en C#/.NET con SQL Server. Me apasiona entender cómo funcionan las cosas por dentro — del backend a la electrónica 🔌 — y construir sistemas web de punta a punta 🛠️</p>
 
@@ -29,8 +29,8 @@
 
 <h3 align="left">Conectá conmigo:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/manuel-canello-044936362" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="mailto:manuxxs12@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/manuel-canello-044936362" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:manuxxs12@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <h3 align="left">Lenguajes y herramientas:</h3>
